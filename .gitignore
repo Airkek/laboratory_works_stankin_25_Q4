@@ -1,0 +1,42 @@
+# C++
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.pdb
+*.ilk
+x64/
+x86/
+
+# C# / .NET
+bin/
+obj/
+*.nupkg
+appsettings.Development.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+
+# Other
+*.sqlite3
+*.log
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vs/
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.sln.docstates
